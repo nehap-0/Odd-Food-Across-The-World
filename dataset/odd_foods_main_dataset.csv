@@ -1,0 +1,21 @@
+Food_Name,Country,Region,Category,Tourism_Popularity,Cultural_Acceptance,Risk_Level,Protein_Content,Main_Ingredient,Preparation_Time_Days,Price_USD,Annual_Tourists
+Century Egg,China,Asia,Preserved Foods,6.2,8.5,2,13.8,Duck Egg,60,3.5,45000
+Live Octopus (Sannakji),South Korea,Asia,Live Foods,7.8,9.2,8,18.2,Octopus,0,12.0,32000
+Fugu (Pufferfish),Japan,Asia,Dangerous Foods,8.5,7.8,10,15.7,Pufferfish,0,85.0,18000
+Silkworm Pupae (Beondegi),South Korea,Asia,Insects,4.2,8.9,1,25.3,Silkworm,0,2.8,28000
+Durian,Thailand,Asia,Pungent Foods,6.8,9.5,1,1.5,Durian Fruit,0,15.0,75000
+Surströmming,Sweden,Europe,Fermented Foods,5.1,6.2,3,20.1,Herring,180,25.0,12000
+Haggis,Scotland,Europe,Organ Meats,7.3,8.7,2,16.2,Sheep Organs,1,8.5,65000
+Escargot,France,Europe,Gastropods,8.9,7.4,1,16.5,Garden Snail,0,18.0,125000
+Blood Sausage,United Kingdom,Europe,Blood Foods,6.7,8.1,2,19.4,Pig Blood,0,6.5,48000
+Deep Fried Butter,United States,North America,Extreme Foods,5.8,4.2,6,0.9,Butter,0,7.0,85000
+Rocky Mountain Oysters,United States,North America,Organ Meats,6.4,5.8,2,26.1,Bull Testicles,0,12.5,42000
+Cuy (Guinea Pig),Peru,South America,Exotic Meats,7.1,9.8,1,21.8,Guinea Pig,0,15.0,38000
+Mopane Worms,South Africa,Africa,Insects,4.7,9.1,1,31.2,Moth Caterpillar,0,4.0,15000
+Locusts,Morocco,Africa,Insects,3.8,7.9,1,20.6,Locust,0,3.2,8000
+Witchetty Grub,Australia,Oceania,Insects,5.5,8.3,1,15.7,Moth Larva,0,8.0,22000
+Balut,Philippines,Asia,Embryonic Foods,6.9,9.4,3,14.2,Duck Embryo,0,1.5,52000
+Bird's Nest Soup,China,Asia,Unusual Ingredients,8.2,8.9,2,9.7,Swiftlet Saliva,0,150.0,25000
+Fried Tarantulas,Cambodia,Asia,Insects,6.3,8.4,2,19.8,Tarantula,0,2.5,35000
+Tête de Veau,France,Europe,Organ Meats,5.9,7.6,2,18.4,Calf Head,0,28.0,18000
+Lutefisk,Norway,Europe,Preserved Foods,4.8,6.9,4,17.3,Cod,30,22.0,11000

@@ -1,0 +1,21 @@
+Food_Name,Country,Region,Risk_Level,Tourism_Popularity,Cultural_Acceptance,Annual_Revenue_USD,Category,Price_USD,Protein_Content
+Century Egg,China,Asia,2,6.2,8.5,157500.0,Preserved Foods,3.5,13.8
+Live Octopus (Sannakji),South Korea,Asia,8,7.8,9.2,384000.0,Live Foods,12.0,18.2
+Fugu (Pufferfish),Japan,Asia,10,8.5,7.8,1530000.0,Dangerous Foods,85.0,15.7
+Silkworm Pupae (Beondegi),South Korea,Asia,1,4.2,8.9,78400.0,Insects,2.8,25.3
+Durian,Thailand,Asia,1,6.8,9.5,1125000.0,Pungent Foods,15.0,1.5
+Surströmming,Sweden,Europe,3,5.1,6.2,300000.0,Fermented Foods,25.0,20.1
+Haggis,Scotland,Europe,2,7.3,8.7,552500.0,Organ Meats,8.5,16.2
+Escargot,France,Europe,1,8.9,7.4,2250000.0,Gastropods,18.0,16.5
+Blood Sausage,United Kingdom,Europe,2,6.7,8.1,312000.0,Blood Foods,6.5,19.4
+Deep Fried Butter,United States,North America,6,5.8,4.2,595000.0,Extreme Foods,7.0,0.9
+Rocky Mountain Oysters,United States,North America,2,6.4,5.8,525000.0,Organ Meats,12.5,26.1
+Cuy (Guinea Pig),Peru,South America,1,7.1,9.8,570000.0,Exotic Meats,15.0,21.8
+Mopane Worms,South Africa,Africa,1,4.7,9.1,60000.0,Insects,4.0,31.2
+Locusts,Morocco,Africa,1,3.8,7.9,25600.0,Insects,3.2,20.6
+Witchetty Grub,Australia,Oceania,1,5.5,8.3,176000.0,Insects,8.0,15.7
+Balut,Philippines,Asia,3,6.9,9.4,78000.0,Embryonic Foods,1.5,14.2
+Bird's Nest Soup,China,Asia,2,8.2,8.9,3750000.0,Unusual Ingredients,150.0,9.7
+Fried Tarantulas,Cambodia,Asia,2,6.3,8.4,87500.0,Insects,2.5,19.8
+Tête de Veau,France,Europe,2,5.9,7.6,504000.0,Organ Meats,28.0,18.4
+Lutefisk,Norway,Europe,4,4.8,6.9,242000.0,Preserved Foods,22.0,17.3
